@@ -3,7 +3,7 @@ farklı farklı tek sayfalık yaptığım UI tasarımları için açılmıştır
 
 <h1>Planet List UI</h1> 
 bir kutu seçili olduğunda turuncu renkli bir çerçeve alır. ayrıca gezegen normale göre biraz daha büyür.
-<img src="https://user-images.githubusercontent.com/56825677/146681070-123002fa-bff6-443a-bb33-58c38ee29a77.png" alt="Girl in a jacket" width="500" height="600">
+<img src="https://user-images.githubusercontent.com/56825677/146681070-123002fa-bff6-443a-bb33-58c38ee29a77.png" alt="Girl in a jacket"  height="600">
 
 
 Food Delivery Home Page UI
