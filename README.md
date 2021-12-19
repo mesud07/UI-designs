@@ -6,12 +6,12 @@ bir kutu seçili olduğunda turuncu renkli bir çerçeve alır. ayrıca gezegen 
 <img src="https://user-images.githubusercontent.com/56825677/146681070-123002fa-bff6-443a-bb33-58c38ee29a77.png" alt="Girl in a jacket"  height="600">
 
 
-Food Delivery Home Page UI
+<h1>Food Delivery Home Page UI</h1>
+<img src="https://user-images.githubusercontent.com/56825677/145026481-0e35090d-e9dc-4980-b44a-43ad3caf5391.png" alt="Girl in a jacket"  height="600">
 
-![screenshot](https://user-images.githubusercontent.com/56825677/145026481-0e35090d-e9dc-4980-b44a-43ad3caf5391.png)
+<img src="https://user-images.githubusercontent.com/56825677/145026532-69146169-4eed-4cb2-80a3-ccdb73bdcf10.png" alt="Girl in a jacket"  height="600">
 
-![screenshot](https://user-images.githubusercontent.com/56825677/145026532-69146169-4eed-4cb2-80a3-ccdb73bdcf10.png)
 
-Coffee Home Page UI
+<h1>Coffee Home Page UI</h1>
+<img src="https://user-images.githubusercontent.com/56825677/145026555-d60066a0-3f29-4c97-974b-93e2f647b5cc.png" alt="Girl in a jacket"  height="600">
 
-![screenshot](https://user-images.githubusercontent.com/56825677/145026555-d60066a0-3f29-4c97-974b-93e2f647b5cc.png)
